@@ -27,6 +27,16 @@
   <br>
 
   <br>
+  
+  
+## Block diagram
+
+
+![캡처](https://user-images.githubusercontent.com/75367132/202906560-fd848be9-3e60-4067-a4a6-99de3c5b7b98.PNG)
+
+
+
+<br>
 
 ## About Project
 
@@ -128,13 +138,6 @@
 <br>
 
 
-## 블럭도
 
-
-![캡처](https://user-images.githubusercontent.com/75367132/202906560-fd848be9-3e60-4067-a4a6-99de3c5b7b98.PNG)
-
-
-
-<br>
 
 
