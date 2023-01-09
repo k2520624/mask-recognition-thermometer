@@ -34,7 +34,7 @@
 
 ### Mask recognition
 
-<img src="https://img.shields.io/badge/Language-C / C++-green?style=flat"/><img src="https://img.shields.io/badge/Platform-Arduino-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/Platform-Arduino-blue?style=flat"/>
 
 * keras/tensorflow 마스크 데이터 학습
 
