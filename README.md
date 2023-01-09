@@ -25,11 +25,12 @@
 
 <br>
 
-## 기술 스택
+### 사용 도구
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+| **개발언어**  | **Java, Python**           |
+| ------------- | -------------------------- |
+| **개발도구**  | **Android studio, Python** |
+| **사용 기술** | **landmark, opencv**       |
 
 <br>
 
