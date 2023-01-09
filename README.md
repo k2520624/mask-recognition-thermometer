@@ -1,10 +1,6 @@
-# 스마트 컨테이너 (Smart Container)
+# 마스크 인식 출입통제 서비스
 
 
-
-## Description
-
-> 2019.04. - 2019.11.
 
 ### Contests
 
@@ -29,11 +25,10 @@
   <br>
   
   
-## Block diagram
+### Block diagram
 
 
 ![캡처](https://user-images.githubusercontent.com/75367132/202906560-fd848be9-3e60-4067-a4a6-99de3c5b7b98.PNG)
-
 
 
 <br>
