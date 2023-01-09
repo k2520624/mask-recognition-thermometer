@@ -32,17 +32,15 @@
 
 ## About Project
 
-### Container
+### Mask recognition
 
 <img src="https://img.shields.io/badge/Language-C / C++-green?style=flat"/><img src="https://img.shields.io/badge/Platform-Arduino-blue?style=flat"/>
 
-* 각종 센서를 통한 컨테이너 내부 상태 수집
+* keras/tensorflow 마스크 데이터 학습
 
-* 펠티어 소자를 이용하여 설정한 컨테이너 내부 온도를 유지
+* 학습된 데이터로 마스크 착용 여부 판별
 
-* RFID, KEYPAD를 사용한 컨테이너 도어 LOCK / UNLOCK 보안 기능
 
-* 태양널 패널을 통한 배터리 충전
 
   <br>
 
