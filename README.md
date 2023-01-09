@@ -44,38 +44,13 @@
 
   <br>
 
-### 3D printing
+### Node-red
 
-<img src="https://img.shields.io/badge/Platform-Fusion360-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Platform-RaspberryPi-yellow?style=flat"/>
 
-* 아두이노 및 각종 센서, 펠티어 소자가 장착될 수 있는 컨테이너 모형 제작
-
-  <br>
-
-### Web
-
-<img src="https://img.shields.io/badge/Language-PHP-green?style=flat"/><img src="https://img.shields.io/badge/Platform-RaspberryPi-blue?style=flat"/><img src="https://img.shields.io/badge/DB-MySQL-yellow?style=flat"/>
-
-* 사용자 / 관리자로 로그인
-
-* 컨테이너 별 접근 가능한 사용자 설정 가능
-
-* 각 컨테이너의 시간별 상태 및 위치 정보 모니터링
+* 매장안의 인원 파악
 
   <br>
-
-### BE
-
-<img src="https://img.shields.io/badge/Language-C-green?style=flat"/><img src="https://img.shields.io/badge/DB-MySQL-yellow?style=flat"/>
-
-* 아두이노로부터 데이터를 수신하는 Socket Programming
-
-* MySQL 사용자 및 컨테이너 Table 생성
-
-* 컨테이너 정보 DB에 업로드
-
-  <br>
-
   <br>
 
 ## Results
