@@ -55,50 +55,9 @@
 
 ## Results
 
-### H/W
-
-- Container Model
-
-| <img src=images/container.png  width="100%"/> |
-| --------------------------------------------- |
+### 결과 영상
 
 
-
-|                        front                        |                        inside                        |
-| :-------------------------------------------------: | :--------------------------------------------------: |
-| <img src=images/container_front.png  width="100%"/> | <img src=images/container_inside.png  width="100%"/> |
-|                      **back**                       |                       **top**                        |
-| <img src=images/container_back.png  width="100%"/>  |  <img src=images/container_top.png  width="100%"/>   |
-
-
-
-<br>
-
-- Circuit
-
-<img src=images/circuit1.png  width="30%"/><img src=images/circuit2.png  width="30%"/>  <img src=images/circuit3.png  width="30%"/>
-
-<br>
-
-<img src=images/circuit4.png  width="80%"/>
-
-
-
-<br>
-
-<br>
-
-### Web page
-
-|         기능         |                       화면                        |
-| :------------------: | :-----------------------------------------------: |
-|     로그인 화면      |   <img src=images/web_login.png  width="80%"/>    |
-|  접근 가능 컨테이너  | <img src=images/web_containers.png  width="80%"/> |
-| 선택한 컨테이너 정보 |  <img src=images/web_coninfo.png  width="80%"/>   |
-
-<br>
-
-<br>
 
 <br>
 
